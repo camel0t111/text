@@ -1,0 +1,55 @@
+h1 {
+  text-align: center;
+  background-color: #dcdcdc;
+  padding: 20px 0px;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+.text1 {
+  background-color: lightgreen;
+  font-style: italic;
+  font-size: 30px;
+}
+
+.post1 {
+  word-spacing: 2em;
+
+}
+
+.text2 {
+  font-weight: bold;
+  font-size: 22px;
+  background-color: cyan;
+}
+
+.post2 {
+  letter-spacing: 1em;
+}
+
+.text3 {
+  background-color: lightpink;
+  text-indent: 60px;
+}
+
+.btn1, .btn2, .btn3 {
+  background-color: #cbcbcb;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  align-content: center;
+}
+
+.btn1 {
+
+}
+
+.btn2 {
+
+}
+
+.btn3 {
+  text-align: right;
+}

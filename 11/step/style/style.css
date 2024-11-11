@@ -1,0 +1,120 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: montserrat;
+}
+
+footer {
+	background-color: #808080;
+	display: flex;
+	align-items: center;
+	font-size: 16px;
+	padding: 15px;
+}
+
+h1 {
+	color: #ffa400;
+	font-size: 50px;
+}
+
+footer a{
+	text-decoration: none;
+	color: #fff;
+	padding-left: 10px;
+}
+
+.btn1 {
+	border: solid #ffa400 15px;
+	border-radius: 50px;
+	background-color: #ffa400;
+	align-items: center;
+	color: #fff;
+	margin-left: 30px;
+}
+
+.links {
+	display: flex;
+}
+
+.logo1 {
+	width: 80px;
+	height: 80px;
+}
+
+.logo2 {
+	width: 100px;
+	height: 100px;
+}
+
+.link {
+	width: 30px;
+	height: 30px;
+}
+
+.img1 {
+	width: 40%;
+}
+
+.img2 {
+	width: 17%;
+}
+
+.phone, .inst, .fb {
+	margin-left: 30px;
+}
+
+.includeins {
+	display: inline-block;
+	text-align: center;
+}
+
+.includeins p {
+	font-weight: 500;
+	font-size: 25px;
+	padding-bottom: 35px;
+	margin-top: -20px;
+}
+
+.btn2, .btn3 {
+	border: solid #ffa400 1px;
+	border-radius: 50px;
+	background-color: #ffa400;
+	display: inline-block;
+	color: #fff;
+	font-size: 15px;
+	width: 197px;
+	height: 40px;
+	align-items: center;
+}
+
+.btns {
+	justify-content: space-between;
+}
+
+.btn2 {
+	margin-right: 30px;
+}
+
+.include {
+	margin: 200px;
+	display: flex;
+	justify-content: center;
+}
+
+.btn1:hover {
+	background: #fff;
+    color: #ffa400;
+    transition: all 0.5s ease;
+}
+
+.btn2:hover {
+	background: #fff;
+    color: #ffa400;
+    transition: all 0.5s ease;
+}
+
+.btn3:hover {
+	background: #fff;
+    color: #ffa400;
+    transition: all 0.5s ease;
+}
